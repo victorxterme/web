@@ -9,8 +9,7 @@ export const getProjects = async () => {
 };
 
 export const getReadme = async () => {
-  const { data } = 0;
-  return data;
+  return 0;
 };
 
 export const getWeather = async (city: string) => {
