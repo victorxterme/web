@@ -14,7 +14,7 @@ export const help = async (args: string[]): Promise<string> => {
       c += Object.keys(bin).sort()[i - 1] + ' ';
     }
   }
-  return `Welcome! Here are all the available commands:
+  return `Hi, here are all the commands:
   - about
   - github
   - linkedin
