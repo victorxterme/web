@@ -1,0 +1,36 @@
+{
+  
+  "title": "MyWeb",
+  "name": "Victor",
+  "ascii": "Hello",
+  "social": {
+    "github": "deltag0",
+    "linkedin": "https://www.linkedin.com/feed/"
+  },
+  "email": "victorxterme.com",
+  "ps1_hostname": "portfolio",
+  "ps1_username": "VictorTerme",
+
+  "resume_url": "https://drive.google.com/file/d/1slR7PZNnI0sZ6ybqGbO0ErkVz1X2EVBd/view?usp=sharing",
+  
+  "colors": {
+    "light": {
+      "background": "#FBF1C9",
+      "foreground": "#3C3836",
+      "yellow": "#D79921",
+      "green": "#98971A",
+      "gray": "#7C6F64",
+      "blue": "#458588",
+      "red": "#CA2124"
+    },
+    "dark": {
+      "background": "#1a1b1f",
+      "foreground": "#E5E9F0",
+      "yellow": "#5E81AC",
+      "green": "#A3BE8C",
+      "gray": "#88C0D0",
+      "blue": "#EBCB8B",
+      "red": "#BF616A"
+    }
+  }
+}
