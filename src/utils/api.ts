@@ -9,7 +9,7 @@ export const getProjects = async () => {
 };
 
 export const getReadme = async () => {
-  const { data } = await axios.get(config.readmeUrl);
+  const { data } = 0;
   return data;
 };
 
