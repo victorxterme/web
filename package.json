@@ -9,7 +9,7 @@
   },
   "scripts": {
     "dev": "next dev",
-    "build": "next build",
+    "build": "yarn dev",
     "start": "next start",
     "lint": "next lint",
     "prepare": "chmod +x ./node_modules/.bin/husky && husky install"
